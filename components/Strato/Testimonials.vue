@@ -1,8 +1,6 @@
 <template>
-<!-- Container for demo purpose -->
 <div class="container px-6 mx-auto">
 
-    <!-- Section: Design Block -->
     <section class="mb-16 text-gray-800 text-center lg:text-left">
     
       <div class="md:px-6 py-12 md:px-12">
@@ -73,7 +71,6 @@ I strongly recommend Armandas as a freelance or full-time employee for a junior 
       </div>
       
     </section>
-    <!-- Section: Design Block -->
   
   </div>
   <!-- Container for demo purpose -->
