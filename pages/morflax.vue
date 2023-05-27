@@ -4,14 +4,16 @@
         <Navbar></Navbar>
         <MorflaxHero></MorflaxHero>
         <Footer></Footer>
-       
+        <ScrollToTopButton></ScrollToTopButton>
+
     </div>
    </template>
    
    <script>
-      import Navbar from '../components/navbar.vue'
-import Footer from '../components/Footer.vue';
-import MorflaxHero from '../components/morflax-hero.vue';
+    import Navbar from '../components/navbar.vue'
+    import Footer from '../components/Footer.vue';
+    import MorflaxHero from '../components/Morflax/morflax-hero.vue';
+    import ScrollToTopButton from '../components/ScrollToTopButton.vue'
    
    export default {
      name: 'IndexPage',
@@ -19,7 +21,8 @@ import MorflaxHero from '../components/morflax-hero.vue';
      components:{
     Navbar,
     Footer,
-    MorflaxHero
+    MorflaxHero,
+    ScrollToTopButton
 }
    
    }

@@ -91,7 +91,7 @@
     </div>
   </div>
 
-  <div class="flex text-center p-4" style="background-color: rgba(0, 0, 0, 0.2);">
-    © 2022 Copyright: Armandas Kaleinykas
+  <div class="flex text-center p-4 text-zinc" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2023 Copyright Armandas Kaleinykas
   </div>
 </footer>
